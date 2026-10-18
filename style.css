@@ -121,3 +121,7 @@ footer {
   margin-top: 40px;
   padding-bottom: 20px;
 }
+
+/* Modified 2026-10-18: project-specific brand artwork. */
+.brand-avatar { display:block; margin:0 auto 1.25rem; border-radius:20px; }
+.brand-cover { display:block; width:100%; max-width:680px; height:auto; margin:1.5rem auto; border-radius:18px; }
